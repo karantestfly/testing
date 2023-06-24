@@ -1,4 +1,5 @@
 import './App.css';
+import ContactForm from './components/ContactForm';
 import Hero from './components/Hero';
 import Navbar from './components/Navbar';
 import UiLocation from './components/UiLocation';
@@ -11,6 +12,7 @@ function App() {
       <UiLocation />
       <Hero />
       <WorkingSection />
+      <ContactForm />
     </div>
   );
 }
