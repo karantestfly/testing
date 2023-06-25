@@ -1,5 +1,6 @@
 import React from "react";
 import { useRef } from "react";
+import "./Form.css"
 
 function ContactForm() {
   let api = `https://script.google.com/macros/s/AKfycbyrwfhesfDAr1fIElX0ZwT9DqTDVQFcHNeAF8lN7eOOrU38wZelWU9wp8Cd5v8y4XE9WA/exec`
