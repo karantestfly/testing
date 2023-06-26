@@ -13,6 +13,7 @@ function App() {
       <Hero />
       <WorkingSection />
       <ContactForm />
+      {/* updated */}
     </div>
   );
 }
